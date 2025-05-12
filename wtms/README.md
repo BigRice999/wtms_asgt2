@@ -39,6 +39,7 @@ CREATE TABLE workerinfo (
   password VARCHAR(255),
   phone VARCHAR(20),
   address TEXT
+  image VARCHAR(255)
 );
 
 4. Placed Php file in: 
